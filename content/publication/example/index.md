@@ -8,7 +8,7 @@ authors:
   - Heyan Huang
   - Zewen Chi
   - Xian-Ling Mao
-publication_short: In *ICW*
+publication_short: COLING2022
 abstract: >-
   Unsupervised question answering is an attractive task due to its independence
   on labeled data. Previous works usually make use of heuristic rules as well as
